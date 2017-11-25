@@ -1,7 +1,7 @@
 # cram-school-data-jam
 分析新竹縣市各國高中升學率與附近之補習班分布的關係
 
-簡報檔: `presentation.key`
+簡報檔: `presentation.pdf`
 
 ## 開放資料集
 - [新竹市各學年度國民中學普通班班級數及學生人數](http://opendata.hccg.gov.tw/dataset/hc-20160512-143140-0497)
