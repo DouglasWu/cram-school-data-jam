@@ -1,0 +1,134 @@
+{
+  "屏東縣": {
+    "total": 83514,
+    "junior": 24014,
+    "senior": 22018,
+    "primary": 37482
+  },
+  "新竹市": {
+    "total": 65948,
+    "junior": 15683,
+    "senior": 20731,
+    "primary": 29534
+  },
+  "宜蘭縣": {
+    "total": 51033,
+    "junior": 14783,
+    "senior": 13901,
+    "primary": 22349
+  },
+  "苗栗縣": {
+    "total": 63801,
+    "junior": 16836,
+    "senior": 18386,
+    "primary": 28579
+  },
+  "臺南市": {
+    "total": 204379,
+    "junior": 53089,
+    "senior": 61815,
+    "primary": 89475
+  },
+  "新北市": {
+    "total": 396237,
+    "junior": 106199,
+    "senior": 94332,
+    "primary": 195706
+  },
+  "嘉義市": {
+    "total": 45800,
+    "junior": 10634,
+    "senior": 19698,
+    "primary": 15468
+  },
+  "高雄市": {
+    "total": 295898,
+    "junior": 76167,
+    "senior": 89805,
+    "primary": 129926
+  },
+  "彰化縣": {
+    "total": 147648,
+    "junior": 39679,
+    "senior": 42546,
+    "primary": 65423
+  },
+  "澎湖縣": {
+    "total": 8941,
+    "junior": 2452,
+    "senior": 2733,
+    "primary": 3756
+  },
+  "臺中市": {
+    "total": 347696,
+    "junior": 89408,
+    "senior": 105226,
+    "primary": 153062
+  },
+  "南投縣": {
+    "total": 55539,
+    "junior": 15716,
+    "senior": 15643,
+    "primary": 24180
+  },
+  "臺北市": {
+    "total": 293856,
+    "junior": 69178,
+    "senior": 108182,
+    "primary": 116496
+  },
+  "嘉義縣": {
+    "total": 44397,
+    "junior": 13153,
+    "senior": 10434,
+    "primary": 20810
+  },
+  "桃園市": {
+    "total": 276712,
+    "junior": 70463,
+    "senior": 81645,
+    "primary": 124604
+  },
+  "新竹縣": {
+    "total": 68414,
+    "junior": 18044,
+    "senior": 14678,
+    "primary": 35692
+  },
+  "臺東縣": {
+    "total": 23772,
+    "junior": 6682,
+    "senior": 6388,
+    "primary": 10702
+  },
+  "花蓮縣": {
+    "total": 37363,
+    "junior": 10165,
+    "senior": 11284,
+    "primary": 15914
+  },
+  "基隆市": {
+    "total": 39701,
+    "junior": 10279,
+    "senior": 12768,
+    "primary": 16654
+  },
+  "雲林縣": {
+    "total": 77768,
+    "junior": 22308,
+    "senior": 21463,
+    "primary": 33997
+  },
+  "連江縣": {
+    "total": 1028,
+    "junior": 249,
+    "senior": 324,
+    "primary": 455
+  },
+  "金門縣": {
+    "total": 7753,
+    "junior": 2023,
+    "senior": 2112,
+    "primary": 3618
+  }
+}
